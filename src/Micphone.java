@@ -1,6 +1,3 @@
-package micphone;
-
-import micphone.AudioRead;
  
 // Simple example how to read Microphone line in Java.
 // AudioRead class implements Runnable, however you can
