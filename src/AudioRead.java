@@ -53,7 +53,7 @@ public class AudioRead implements Runnable
                 
                 for (byte b : data) 
                 {
-					System.out.printf("%d ", data);
+					System.out.printf("%x\n", b);
 				}
                 /*
                 MicrophoneIQ.stack.push(data);
